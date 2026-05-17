@@ -29,10 +29,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 3, suffix: "+", label: "Years of Experience" },
+  { value: 15, suffix: "+", label: "Satisfied Clients" },
+  { value: 20, suffix: "+", label: "Completed Projects" },
+  { value: 95, suffix: "%", label: "Client Retention Rate" },
 ];
 
 const logoIconsList = [
@@ -147,39 +147,39 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Navaneeth brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Junior MERN Stack Developer - Dhruv 360°",
+    date: "January 2026 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Built end-to-end MERN stack features, contributing to faster development cycles.",
+      "Developed cleaner code architecture for optimal performance.",
+      "Collaborated closely with teams to ensure seamless user experiences.",
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Navaneeth’s contributions to our web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    title: "Web Developer - Freelancing",
+    date: "December 2021 - July 2025",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Developed and deployed responsive, user-friendly websites and web applications.",
+      "Boosted user engagement by 30%+ through modern front-end and back-end solutions.",
+      "Reduced page load times by up to 40% with optimized code.",
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Navaneeth’s work on our projects brought a high level of quality and efficiency. He delivered solutions that enhanced our experience & met our product goals.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    title: "Full Stack Developer",
+    date: "2019 - Present",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Built robust full stack applications using React, Node.js, Express, and MongoDB.",
+      "Improved performance and user experience through code optimization.",
+      "Coordinated with clients to implement features based on feedback.",
     ],
   },
 ];
@@ -248,18 +248,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url: "https://www.instagram.com/__.navaneeth.__k__v__/",
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    url: "https://www.facebook.com/navaneeth.navaneeth.182",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url: "https://x.com/Navanee70719562",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/navaneeth-kv-270386214/",
   },
 ];
 
