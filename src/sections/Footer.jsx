@@ -9,9 +9,9 @@ const Footer = () => {
         </div>
         <div className="socials">
           {socialImgs.map((socialImg, index) => (
-            <div key={index} className="icon">
+            <a key={index} href={socialImg.url} target="_blank" rel="noreferrer" className="icon">
               <img src={socialImg.imgPath} alt="social icon" />
-            </div>
+            </a>
           ))}
         </div>
         <div className="flex flex-col justify-center">
